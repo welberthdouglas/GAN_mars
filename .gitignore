@@ -1,0 +1,12 @@
+# zip files
+*.zip
+
+# images
+croped_pics/
+map-proj-v3/
+
+# virtual environments
+venv/
+
+# models h5
+*.h5
